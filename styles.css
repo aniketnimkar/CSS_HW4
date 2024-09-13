@@ -1,0 +1,53 @@
+/* Exercise_1 */
+/* .main {
+  padding: 0.5rem;
+  border: 1px solid rgb(170, 167, 167);
+  max-width: 300px;
+}
+
+.input-field {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.5rem;
+}
+
+.main button {
+  background-color: rgb(73, 73, 73);
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+  width: 100%;
+  color: white;
+  margin-bottom: 15px;
+} */
+
+/* Exercise_2 */
+
+.main {
+  border: 1px solid rgb(170, 167, 167);
+  max-width: 200px;
+  padding: 1rem;
+  display: inline-block;
+  align-items: center;
+}
+.main label {
+  font-weight: bold;
+}
+
+.main h2 {
+  text-align: center;
+}
+
+.main button {
+  width: 170px;
+  background-color: rgb(5, 122, 253);
+  border: none;
+  padding: 0.4rem;
+  border-radius: 5px;
+  color: white;
+}
+
+.main p {
+  text-align: center;
+  color: rgb(5, 122, 253);
+}
