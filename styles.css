@@ -1,5 +1,5 @@
 /* Exercise_1 */
-/* .main {
+.main {
   padding: 0.5rem;
   border: 1px solid rgb(170, 167, 167);
   max-width: 300px;
@@ -19,11 +19,11 @@
   width: 100%;
   color: white;
   margin-bottom: 15px;
-} */
+}
 
 /* Exercise_2 */
 
-.main {
+/* .main {
   border: 1px solid rgb(170, 167, 167);
   max-width: 200px;
   padding: 1rem;
@@ -50,4 +50,160 @@
 .main p {
   text-align: center;
   color: rgb(5, 122, 253);
+} */
+
+/* Exercise_3 */
+
+/*  {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  
+  color: black;
+  border-radius: 5px;
+}
+
+nav ul li a.first {
+  background-color: #007bff;
+  color: white;
+}
+
+nav ul li a:hover {
+  background-color: #0056b3;
+}
+
+main {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+}
+
+.photo-card {
+  flex-grow: 1;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.photo-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  aspect-ratio: 1 / 1;
+} */
+
+/* Exercise_4 */
+
+/* .cards {
+  display: flex;
+  gap: 1rem;
+}
+.card {
+  border: solid 1px rgb(170, 167, 167);
+  padding: 1rem;
+}
+
+.card .free {
+  border: 1px solid black;
+  width: 87px;
+  padding: 0.5rem;
+}
+.card button {
+  background-color: rgb(50, 49, 49);
+  color: white;
+  border: none;
+  padding: 0.4rem;
+  border-radius: 3px;
+}
+
+.card .price {
+  margin-left: 20px;
+} */
+
+/* Exercise_5 */
+
+/* .main {
+  border: 3px solid green;
+  max-width: 350px;
+  padding: 0.5rem;
+}
+
+.productDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prod p {
+  width: 200px;
+}
+
+.qty,
+.total {
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.totalSection div {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: rgb(61, 172, 61);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+.razor {
+  display: flex;
+  justify-content: center;
+} */
